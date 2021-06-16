@@ -4,3 +4,4 @@ stsb-distilbert-base
 *.bin
 *.pt
 *.zip
+wandb
