@@ -5,3 +5,4 @@ stsb-distilbert-base
 *.pt
 *.zip
 wandb
+models
